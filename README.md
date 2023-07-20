@@ -15,10 +15,10 @@ Notbot Chatbot is a simple web-based chatbot designed for internship tasks. It i
 To run the chatbot locally, you need a web browser (e.g., Google Chrome, Mozilla Firefox, etc.).
 
 **Installation**  
-Clone the GitHub repository to your local machine : 
+Clone the GitHub repository to your local machine :   
 git clone https://github.com/GejjalaLakshmipathi/Notbot-Chatbot-for-Internship-tasks.git
 
-Navigate to the project directory :
+Navigate to the project directory :  
 cd Notbot-Chatbot-for-Internship-tasks
 
 Open the index.html file in your web browser.
